@@ -1,13 +1,7 @@
 {
-<<<<<<< HEAD
   "homepage":"https://Jasmine1308.github.io/ejapi",
   "name": "ejapi",
   "private": true,
-=======
-  ".":"https://JasmineE1308.github.io/ejapi",
-  "name": "vite-project",
-  "private": false,
->>>>>>> 265ccbf6562fa04199adabec6eaa5e9c02e96c1e
   "version": "0.0.0",
   "type": "module",
   "scripts": {
